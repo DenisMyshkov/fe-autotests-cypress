@@ -1,0 +1,41 @@
+{
+  "mainUser": {
+    "id": "",
+    "session": "",
+    "cart": 260,
+    "addressNovatorov": {
+      "place_id": "5348660212676736",
+      "geo_provider": "DoubleGis",
+      "address": {
+        "country": "Россия",
+        "region": "Санкт-Петербург",
+        "city": "Санкт-Петербург",
+        "street": "бульвар Новаторов",
+        "house": "10",
+        "block": "",
+        "settlement": "",
+        "geo_point": {
+          "latitude": 59.84957419999999,
+          "longitude": 30.2694798
+        }
+      }
+    },
+    "addressTrofimova": {
+      "place_id": "4504235282626836",
+      "geo_provider": "DoubleGis",
+      "address": {
+        "country": "Россия",
+        "region": "Москва",
+        "city": "Москва",
+        "street": "улица Трофимова",
+        "house": "25, корп. 1",
+        "block": "",
+        "settlement": "",
+        "geo_point": {
+          "latitude": 55.7029765,
+          "longitude": 37.6786686
+        }
+      }
+    }
+  }
+}
